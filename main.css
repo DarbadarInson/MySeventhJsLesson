@@ -97,7 +97,6 @@ main {
 }
 
 #tasks .task {
-	display: flex;
 	justify-content: space-between;
 	background-color: var(--darkest);
 	padding: 1rem;
